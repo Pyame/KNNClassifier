@@ -51,6 +51,6 @@ In this example new object is classified as object of Category 1 because it has 
 ## Pros and Cons
 | Advantages | Disadvantages |
 | ---------- | ------------- |
-| [x] Simple implementation | [x] Need to determine K-value every time |
-| [x] Effective on large data sets | [x] K-value must be selected by trying some values |
-| [x] Resistance to noisy training data | [x] High cost of computation caused by calculating distances |
+| Simple implementation | Need to determine K-value every time |
+| Effective on large data sets | K-value must be selected by trying some values |
+| Resistance to noisy training data | High cost of computation caused by calculating distances |
