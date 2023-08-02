@@ -19,3 +19,6 @@ which category is it most similar to,
 4. Every parameter has to have its "value", it is called **data points**, it has to be counted.
 5. **Assign new data points** to category which number of neighbors is highest.
 
+![Alt text](classes.png)
+![Alt text](euclidean.png)
+![Alt text](distance.png)
