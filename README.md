@@ -1,5 +1,13 @@
 # KNNClassifier
-
+## Table of contents
+- [Introduction](#introduction)
+- [Work process](#work-process)
+- [Example](#example)
+    * [Define K](#define-k)
+    * [Calculate euclidean distance](#calculate-euclidean-distance)
+    * [Define neighbours and category](#define-neighbours-and-category)
+- [Find best K-value](#finding-best-k-value)
+- [Pros and Cons](#pros-and-cons)
 ## Introduction
 **KNN classifier** is simple *Machine Learning* algorithm.
 It belongs to supervised learning techniques.
